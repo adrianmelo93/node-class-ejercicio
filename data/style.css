@@ -449,6 +449,10 @@ main{
   margin: 0 auto;
 }
 
+form input {
+  margin: 1rem;
+}
+
 .textbox{
   max-width: 200px;
   margin-bottom: 40px;
